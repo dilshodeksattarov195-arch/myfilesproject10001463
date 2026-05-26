@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuync",
+        "uuid": 14008225,
+        "checksum": "kcq0ho9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
